@@ -8,21 +8,21 @@ Config = {
         {
             name = "Mystic Call",
             desc = "Snakes circle around you",
-            url = "https://www.youtube.com/watch?v=l2MacpazdWA", 
+            url = "https://www.youtube.com/watch?v=ifM4dYU5dJo", 
             behavior = "circle",
             radius = 2.0
         },
         {
             name = "Serpent March",
             desc = "Snakes follow in a line",
-            url = "https://www.youtube.com/watch?v=l2MacpazdWA",
+            url = "https://www.youtube.com/watch?v=ifM4dYU5dJo",
             behavior = "follow",
             spacing = 1.0
         },
         {
             name = "Wild Dance",
             desc = "Snakes sway randomly",
-            url = "https://www.youtube.com/watch?v=l2MacpazdWA",
+            url = "https://www.youtube.com/watch?v=ifM4dYU5dJo",
             behavior = "random",
             radius = 2.0
         }
