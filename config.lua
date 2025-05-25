@@ -34,9 +34,9 @@ Config = {
     },
     PropSettings = {
         flute = {
-            model = "p_harmonica01x", 
-            boneName = "PH_R_Hand",
-            position = { x = 0.1, y = 0.0, z = 0.0 },
+            model = "s_blakesleetube01x", 
+            boneName = "PH_L_Hand",
+            position = { x = 0.1, y = 0.0, z = 0.1 },
             rotation = { pitch = 0.0, roll = 1.0, yaw = 0.0 }
         }
     },
