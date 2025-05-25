@@ -1,0 +1,1 @@
+snakeflute = { name = 'snakeflute', label = 'snakeflute', weight = 1, type = 'item', image = 'snakeflute.png', unique = false, useable = true, shouldClose = false, description = 'charm snakes' },
